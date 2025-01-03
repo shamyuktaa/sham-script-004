@@ -2,7 +2,6 @@
 - 👀 I’m interested in anything related to computers
 - 🌱 I’m currently learning linux (Might become a hacker later on)
 - 💞️ I’m looking to collaborate on py/c/c++ related projects
-- 📫 How to reach me - ping me @shamyuktaan@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: yet to figure out life :)
 
