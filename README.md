@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sham-script-004
-- 👀 I’m interested in anything related to computers
-- 🌱 I’m currently learning linux (Might become a hacker later on)
-- 💞️ I’m looking to collaborate on py/c/c++ related projects
+- 👋 Hi, I’m Shamyuktaa
+- 👀 I’m interested in everything related to computers
+- 🌱 I’m currently learning linux
+- 💞️ I’m looking to collaborate on linux, c/c++ related projects
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: yet to figure out life :)
 
